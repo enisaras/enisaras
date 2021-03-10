@@ -19,7 +19,7 @@ From a young age computers and everything related to them have been my passion. 
 
 I'm currently working on [Discord Betting Bot](https://github.com/enisaras/SportsBettingBot) and [The Archives, the better Star Wars API](https://github.com/enisaras/The-Archives) and contributing to [CodeTheasarus](https://github.com/codethesaurus/codethesaur.us)
 
-You can send me and email over [here](mailto:arasenis@gmail.com) you can also find more information on me at my [personal website](https://senisaras.com).
+You can send me and email over [here](mailto:arasenis@gmail.com) you can also find more information on me at my [personal website](https://www.senisaras.com).
 
 [![enisaras GitHub stats](https://github-readme-stats.vercel.app/api?username=enisaras)](https://github.com/anuraghazra/github-readme-stats)
 
