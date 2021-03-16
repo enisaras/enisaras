@@ -21,6 +21,8 @@ I'm currently working on [Discord Betting Bot](https://github.com/enisaras/Sport
 
 You can send me and email over [here](mailto:arasenis@gmail.com) you can also find more information on me at my [personal website](https://www.senisaras.com).
 
-[![enisaras GitHub stats](https://github-readme-stats.vercel.app/api?username=enisaras)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enisaras&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enisaras)](https://github.com/anuraghazra/github-readme-stats?show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enisaras)](https://github.com/anuraghazra/github-readme-stats?show_icons=true&theme=radical" />
+</a>
